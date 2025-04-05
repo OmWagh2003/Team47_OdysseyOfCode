@@ -1,0 +1,12 @@
+openai                  
+python-dotenv           
+langchain               
+chromadb                
+unstructured            
+pypdf                   
+llama-index             
+transformers            
+sentence-transformers   
+faiss-cpu               
+streamlit               
+tqdm                    
